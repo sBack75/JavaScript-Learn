@@ -5,7 +5,7 @@ function solve(starNum)
   var line ="";
      for (let secIndex = 0; secIndex < starNum; secIndex++)
      {
-    line+='*';
+    line+='* ';
       
      } 
      console.log(line);
